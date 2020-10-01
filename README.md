@@ -30,13 +30,13 @@ pip3 install -r requirements.txt
 
 ## Updating
 
-If you want to get most recent updates for Callow, just pull the repository using
+If you want to get the most recent updates for Callow, just pull the repository using
 
 ```txt
 git pull origin master
 ```
 
-Or, you can download the latest version from [releases page](https://github.com/maximousblk/callow/releases) on Github.
+Or, you can try downloading the latest version from [releases page](https://github.com/maximousblk/callow/releases) on Github.
 
 ## Quick Start
 
